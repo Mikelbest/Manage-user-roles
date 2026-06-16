@@ -1,5 +1,6 @@
 # Manage-user-roles
 Scenario: Your company recently hired a new employee who will perform duties as an application administrator. You must create a new user and assign the appropriate role.
+
 Exercise - Create a new user and test their application admin rights
 Open Microsoft Edge or any accepted browser and navigate to the Microsoft Entra admin center at https://entra.microsoft.com. or through the Microsoft office 365 site, admin.microsoft.com, Sign in using a Global Administrator or as a User Administrator.
 Note: You may be prompted to complete Multi-Factor Authentication (MFA) during sign-in. Follow the prompts to configure or verify your authentication method before continuing.
